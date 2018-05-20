@@ -64,7 +64,7 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'zmy/static',
+    assetsSubDirectory: 'static',
     assetsPublicPath: '/',
 
     /**
